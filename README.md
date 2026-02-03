@@ -1,2 +1,1 @@
-# Mini-lakehouse
-self-contained Mini Data Lakehouse on GitHub that demonstrates real engineering skills end-to-end.
+A mini data lakehouse using Python, Parquet, and DuckDB
