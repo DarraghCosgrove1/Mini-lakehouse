@@ -1,0 +1,8 @@
+# Ignore Python virtual environments
+.venv/
+__pycache__/
+
+# Ignore datasets
+data/bronze/*
+data/silver/*
+data/gold/*
